@@ -1,4 +1,4 @@
-<video src="https://res.cloudinary.com/dhx2urakb/video/upload/v1/samples/sea-turtle" controls autoplay loop muted style="max-width: 100%; height: auto; border-radius: 12px;"></video>
+![Hero Banner](https://res.cloudinary.com/dhx2urakb/image/upload/v1780904733/pexels-miriamespacio-2694037_bv1r2b.jpg)
 
 # Hi there, I'm Nguyễn Huy (VamosHuiJia) 👋
 
