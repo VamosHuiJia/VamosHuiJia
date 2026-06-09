@@ -1,6 +1,6 @@
 ![Hero Banner](https://res.cloudinary.com/dhx2urakb/image/upload/v1780905103/star_shine_jcat0p.png)
 
-# Hi there, I'm Nguyễn Huy (VamosHuiJia) 👋
+# Hi there, I'm Nguyen Huy (VamosHuiJia) 👋
 
 **Full-Stack Developer** | **Web & Blockchain Enthusiast** | **Building scalable and modern applications**
 
