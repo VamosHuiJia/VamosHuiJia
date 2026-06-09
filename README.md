@@ -1,4 +1,4 @@
-![Hero Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFiOG92ZmViZmtkaGx1NGx3dGluYW83Y3V1aXF2NTE0dTY2YzUwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wr3OuI35LlYGNLGaqg/giphy.gif)
+![Hero Banner](https://res.cloudinary.com/dhx2urakb/image/upload/v1780905103/star_shine_jcat0p.png)
 
 # Hi there, I'm Nguyen Huy (VamosHuiJia) 👋
 
