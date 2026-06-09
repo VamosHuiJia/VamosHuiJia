@@ -28,6 +28,15 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating ful
 
 ## 🔥 Featured Projects
 
+### 1. [E-commerce](https://github.com/VamosHuiJia/project.teashop-frontend)
+- Website thương mại điện tử trà cao cấp với thiết kế tối giản, sang trọng.
+- Admin Dashboard + Client side, animation mượt, responsive.
+- Tech: React 19, TypeScript, Tailwind CSS, Vite.
+
+### 2. [Blockchain NFT Marketplace](https://github.com/VamosHuiJia/project.blockchain-marketplace)
+- DApp cho phép mint, mua bán NFT nghệ thuật.
+- Decentralized trên blockchain.
+
 Check out all my repositories **[here](https://github.com/VamosHuiJia?tab=repositories)**.
 
 ---
