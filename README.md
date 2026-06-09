@@ -20,20 +20,9 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating ful
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
-- React.js, TypeScript, Vite
-- Tailwind CSS, Framer Motion
-
-**Backend:**
-- Node.js, Express.js
-- MongoDB, PostgreSQL
-- RESTful APIs, JWT Authentication
-
-**Blockchain & Others:**
-- Web3.js, Ethereum / Solidity
-- IPFS & Filebase
-- Braintree Payment Gateway
-- React Native (basics)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,nodejs,express,mongodb,postgres,solidity,ethereum,ipfs,git,github,vscode" />
+</p>
 
 ---
 
@@ -45,11 +34,13 @@ Check out all my repositories **[here](https://github.com/VamosHuiJia?tab=reposi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VamosHuiJia&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VamosHuiJia&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=VamosHuiJia&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VamosHuiJia&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VamosHuiJia&theme=tokyo-night" />
+</p>
 
 ---
 
