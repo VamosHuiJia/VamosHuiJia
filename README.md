@@ -45,9 +45,11 @@ Check out all my repositories **[here](https://github.com/VamosHuiJia?tab=reposi
 
 ## 📊 GitHub Stats
 
-![VamosHuiJia's GitHub stats](https://github-readme-stats.vercel.app/api?username=VamosHuiJia&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VamosHuiJia&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VamosHuiJia&layout=compact&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=VamosHuiJia&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VamosHuiJia&layout=compact&theme=tokyonight)
 
 ---
 
