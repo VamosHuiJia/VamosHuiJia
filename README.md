@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating ful
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,express,mongodb,postgres,solidity,ipfs" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,nodejs,express,mongodb,postgres,solidity,ipfs" />
 </p>
 
 ---
