@@ -47,10 +47,6 @@ Check out all my repositories **[here](https://github.com/VamosHuiJia?tab=reposi
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VamosHuiJia&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VamosHuiJia&theme=tokyo-night" />
-</p>
-
 ---
 
 ## 🎯 Future Goals
