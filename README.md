@@ -4,6 +4,13 @@
 
 **Full-Stack Developer** | **Web & Blockchain Enthusiast** | **Building scalable and modern applications**
 
+<div align="center">
+  <a href="https://huyngg.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/👉_Visit_My_Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <p><i>⭐ Click the button above to explore my projects and skills! ⭐</i></p>
+</div>
+
 Welcome to my GitHub profile! I'm a passionate developer focused on creating full-stack web applications, beautiful user interfaces, and exploring blockchain technology.
 
 ---
@@ -29,13 +36,13 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating ful
 ## 🔥 Featured Projects
 
 ### 1. [E-commerce](https://github.com/VamosHuiJia/project.teashop-frontend)
-- Website thương mại điện tử trà cao cấp với thiết kế tối giản, sang trọng.
-- Admin Dashboard + Client side, animation mượt, responsive.
+- Premium tea e-commerce website with a minimalist and elegant design.
+- Admin Dashboard + Client side, smooth animations, fully responsive.
 - Tech: React 19, TypeScript, Tailwind CSS, Vite.
 
 ### 2. [Blockchain NFT Marketplace](https://github.com/VamosHuiJia/project.blockchain-marketplace)
-- DApp cho phép mint, mua bán NFT nghệ thuật.
-- Decentralized trên blockchain.
+- DApp for minting, buying, and selling digital art NFTs.
+- Fully decentralized on the blockchain.
 
 Check out all my repositories **[here](https://github.com/VamosHuiJia?tab=repositories)**.
 
