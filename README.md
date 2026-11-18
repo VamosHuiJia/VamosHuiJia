@@ -8,13 +8,10 @@
 </div>
 
 <p align="center">
-  <a href="https://huyngg.vercel.app/"><strong>Portfolio ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/VamosHuiJia/project.teashop-frontend"><strong>Tea Shop ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/VamosHuiJia/project.blockchain-marketplace"><strong>NFT Marketplace ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/VamosHuiJia?tab=repositories"><strong>Repositories ↗</strong></a>
+  <a href="https://huyngg.vercel.app/"><img src="./assets/nav-portfolio.svg" width="170" height="60" alt="Portfolio — Personal website" /></a>
+  <a href="https://github.com/VamosHuiJia/project.teashop-frontend"><img src="./assets/nav-teashop.svg" width="170" height="60" alt="Tea Shop — E-commerce" /></a>
+  <a href="https://github.com/VamosHuiJia/project.blockchain-marketplace"><img src="./assets/nav-nft.svg" width="170" height="60" alt="NFT Marketplace — Blockchain DApp" /></a>
+  <a href="https://github.com/VamosHuiJia?tab=repositories"><img src="./assets/nav-repositories.svg" width="170" height="60" alt="Repositories — All projects" /></a>
 </p>
 
 <details>
