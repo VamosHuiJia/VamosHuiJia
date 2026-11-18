@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Nguyen Huy — Cosmic developer profile</title>
+  <desc id="desc">A deep-space scene with a ringed violet planet, stars, and a cyan-to-purple neon border.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1200" y2="450" gradientUnits="userSpaceOnUse"><stop stop-color="#080E22"/><stop offset=".52" stop-color="#11102B"/><stop offset="1" stop-color="#080D20"/></linearGradient>
+    <linearGradient id="edge" x2="1200" y2="450" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8F9"/><stop offset=".45" stop-color="#6355B6"/><stop offset=".75" stop-color="#C084FC"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <radialGradient id="nebula"><stop stop-color="#6D28D9" stop-opacity=".36"/><stop offset="1" stop-color="#6D28D9" stop-opacity="0"/></radialGradient>
+    <radialGradient id="cyanCloud"><stop stop-color="#0891B2" stop-opacity=".16"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/></radialGradient>
+    <radialGradient id="planet" cx=".25" cy=".17" r=".9"><stop stop-color="#E6C9FF"/><stop offset=".2" stop-color="#B484E8"/><stop offset=".51" stop-color="#6944AC"/><stop offset=".79" stop-color="#28204F"/><stop offset="1" stop-color="#100F25"/></radialGradient>
+    <linearGradient id="ring" x1="766" y1="325" x2="1136" y2="132" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8F9" stop-opacity=".08"/><stop offset=".38" stop-color="#67E8F9"/><stop offset=".66" stop-color="#C4B5FD"/><stop offset="1" stop-color="#F0ABFC" stop-opacity=".25"/></linearGradient>
+    <linearGradient id="headline" x1="70" y1="185" x2="640" y2="265" gradientUnits="userSpaceOnUse"><stop stop-color="#F5F3FF"/><stop offset=".48" stop-color="#DDD6FE"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#A5B4FC" stroke-opacity=".055"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+    <clipPath id="clip"><rect x="8" y="8" width="1184" height="434" rx="22"/></clipPath>
+    <clipPath id="planetClip"><circle cx="953" cy="220" r="101"/></clipPath>
+  </defs>
+  <rect x="8" y="8" width="1184" height="434" rx="22" fill="url(#bg)"/>
+  <g clip-path="url(#clip)">
+    <ellipse cx="945" cy="210" rx="380" ry="300" fill="url(#nebula)"/>
+    <ellipse cx="280" cy="450" rx="550" ry="260" fill="url(#cyanCloud)"/>
+    <path d="M600 450 890 70 1185 450" stroke="#A78BFA" stroke-opacity=".08"/>
+    <rect x="8" y="8" width="1184" height="434" fill="url(#grid)"/>
+    <g fill="#DADFFF">
+      <circle cx="93" cy="108" r="1.2" opacity=".5"/><circle cx="286" cy="42" r="1" opacity=".4"/><circle cx="523" cy="88" r="1.4" opacity=".6"/><circle cx="673" cy="41" r="1" opacity=".5"/><circle cx="737" cy="149" r="1.3" opacity=".7"/><circle cx="808" cy="73" r="1" opacity=".4"/><circle cx="1051" cy="57" r="1.4" opacity=".7"/><circle cx="1146" cy="112" r="1" opacity=".5"/><circle cx="1111" cy="356" r="1.6" opacity=".8"/><circle cx="1025" cy="391" r="1" opacity=".4"/><circle cx="815" cy="364" r="1.2" opacity=".6"/><circle cx="707" cy="292" r="1" opacity=".7"/><circle cx="653" cy="384" r="1.3" opacity=".5"/><circle cx="407" cy="401" r="1" opacity=".5"/><circle cx="240" cy="358" r="1" opacity=".3"/><circle cx="49" cy="299" r="1.1" opacity=".6"/><circle cx="1163" cy="252" r="1.2" opacity=".8"/>
+    </g>
+    <g stroke="#CBD5FF" stroke-opacity=".8"><path d="M703 91v12m-6-6h12"/><path d="M1105 283v10m-5-5h10"/><path d="M858 406v8m-4-4h8"/></g>
+    <ellipse cx="953" cy="228" rx="193" ry="140" transform="rotate(-24 953 228)" stroke="#A78BFA" stroke-opacity=".13" stroke-dasharray="3 9"/>
+    <ellipse cx="953" cy="228" rx="160" ry="59" transform="rotate(-24 953 228)" stroke="url(#ring)" stroke-width="17" opacity=".3"/>
+    <circle cx="953" cy="220" r="110" stroke="#B794F4" stroke-width="5" opacity=".25" filter="url(#glow)"/>
+    <circle cx="953" cy="220" r="101" fill="url(#planet)" stroke="#C4B5FD" stroke-opacity=".4"/>
+    <g clip-path="url(#planetClip)" stroke="#E9D5FF" stroke-opacity=".1">
+      <path d="M838 172c67-33 149-6 231-34M833 190c67-33 149-6 231-34M835 251c67-33 149-6 231-34M838 270c67-33 149-6 231-34M845 284c67-33 149-6 231-34" stroke-width="8"/>
+    </g>
+    <path d="M805 285c-12 35 48 36 133 0s166-94 161-117" stroke="url(#ring)" stroke-width="14"/>
+    <path d="M805 285c-12 35 48 36 133 0s166-94 161-117" stroke="#E9D5FF" stroke-opacity=".5" stroke-width="1.5"/>
+    <circle cx="1096" cy="101" r="11" fill="#70D5E3"/><circle cx="1093" cy="98" r="9" fill="#A5F3FC"/><circle cx="1096" cy="101" r="20" stroke="#67E8F9" stroke-opacity=".18"/>
+    <path d="m670 167 61-27" stroke="#67E8F9" stroke-opacity=".25"/><circle cx="732" cy="140" r="3" fill="#67E8F9"/>
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <rect x="64" y="65" width="251" height="30" rx="15" fill="#67E8F9" fill-opacity=".06" stroke="#67E8F9" stroke-opacity=".3"/>
+      <circle cx="81" cy="80" r="3" fill="#67E8F9"/>
+      <text x="95" y="85" font-family="Consolas, monospace" font-size="11" letter-spacing="2" fill="#9BEAF5">WELCOME TO MY UNIVERSE</text>
+      <text x="63" y="159" fill="#A6A8CE" font-size="17" letter-spacing="4">HELLO, WORLD. I'M</text>
+      <text x="59" y="232" fill="url(#headline)" font-size="72" font-weight="750" letter-spacing="-2">NGUYEN HUY</text>
+      <text x="65" y="270" fill="#C4B5FD" font-family="Consolas, monospace" font-size="19" letter-spacing="3">@VamosHuiJia</text>
+      <path d="M65 299h46" stroke="#67E8F9" stroke-width="3"/>
+      <text x="65" y="332" fill="#E5E7F7" font-size="20">Full-Stack Developer</text>
+      <text x="65" y="362" fill="#9CA8C9" font-size="16">Crafting the web. Exploring Web3.</text>
+      <text x="65" y="407" fill="#667393" font-family="Consolas, monospace" font-size="10" letter-spacing="2">CODE / CREATE / EXPLORE</text>
+      <text x="1126" y="407" text-anchor="end" fill="#9197BE" font-family="Consolas, monospace" font-size="10" letter-spacing="2">PERSONAL ORBIT / 01</text>
+    </g>
+  </g>
+  <rect x="8" y="8" width="1184" height="434" rx="22" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M31 8h111M8 31v54" stroke="#A5F3FC" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1058 442h111m23-23v-54" stroke="#E9B3FF" stroke-width="3" stroke-linecap="round"/>
+<g data-decoration="border-stars"><path d="M10.0 135.0l1.3 3.2 3.2 1.3-3.2 1.3-1.3 3.2-1.3-3.2-3.2-1.3 3.2-1.3Z" fill="#A5F3FC" opacity="0.730"/><path d="M10.0 319.5l1.3 3.2 3.2 1.3-3.2 1.3-1.3 3.2-1.3-3.2-3.2-1.3 3.2-1.3Z" fill="#DDD6FE" opacity="0.878"/><path d="M1190.0 130.5l1.3 3.2 3.2 1.3-3.2 1.3-1.3 3.2-1.3-3.2-3.2-1.3 3.2-1.3Z" fill="#A5F3FC" opacity="0.780"/><path d="M1190.0 310.5l1.3 3.2 3.2 1.3-3.2 1.3-1.3 3.2-1.3-3.2-3.2-1.3 3.2-1.3Z" fill="#DDD6FE" opacity="0.599"/><path d="M300.0 4.5l1.3 3.2 3.2 1.3-3.2 1.3-1.3 3.2-1.3-3.2-3.2-1.3 3.2-1.3Z" fill="#A5F3FC" opacity="0.635"/><path d="M792.0 4.5l1.3 3.2 3.2 1.3-3.2 1.3-1.3 3.2-1.3-3.2-3.2-1.3 3.2-1.3Z" fill="#DDD6FE" opacity="0.829"/><path d="M408.0 436.5l1.3 3.2 3.2 1.3-3.2 1.3-1.3 3.2-1.3-3.2-3.2-1.3 3.2-1.3Z" fill="#A5F3FC" opacity="0.858"/><path d="M960.0 436.5l1.3 3.2 3.2 1.3-3.2 1.3-1.3 3.2-1.3-3.2-3.2-1.3 3.2-1.3Z" fill="#DDD6FE" opacity="0.675"/></g></svg>

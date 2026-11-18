@@ -1,72 +1,93 @@
-![Hero Banner](https://res.cloudinary.com/dhx2urakb/image/upload/v1780905103/star_shine_jcat0p.png)
-
-# Hi there, I'm Nguyen Huy (VamosHuiJia) 👋
-
-**Full-Stack Developer** | **Web & Blockchain Enthusiast** | **Building scalable and modern applications**
-
 <div align="center">
-  <a href="https://huyngg.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/👉_Visit_My_Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <p><i>⭐ Click the button above to explore my projects and skills! ⭐</i></p>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/cosmic-header-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cosmic-header.svg" />
+  <source media="(max-width: 600px)" srcset="./assets/cosmic-header-mobile.gif" />
+  <img src="./assets/cosmic-header.gif" width="100%" alt="Nguyen Huy — VamosHuiJia. Full-Stack Developer and Web3 enthusiast." />
+</picture>
+
+# Hey, I'm Nguyen Huy 👋
+
+**Full-Stack Developer · Web & Blockchain Enthusiast**
+
+Building thoughtful interfaces, full-stack products, and new possibilities on the web.
+
+<a href="https://huyngg.vercel.app/"><img src="./assets/portfolio-badge.svg" width="250" height="44" alt="Explore my portfolio" /></a>
+&nbsp;
+<a href="https://github.com/VamosHuiJia?tab=repositories"><img src="./assets/projects-badge.svg" width="250" height="44" alt="Discover my GitHub projects" /></a>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/cosmic-overview-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cosmic-overview.svg" />
+  <source media="(max-width: 600px)" srcset="./assets/cosmic-overview-mobile.gif" />
+  <img src="./assets/cosmic-overview.gif" width="100%" alt="About Nguyen Huy: full-stack developer and Web3 explorer. I build web applications and explore blockchain technology." />
+</picture>
+
 </div>
 
-Welcome to my GitHub profile! I'm a passionate developer focused on creating full-stack web applications, beautiful user interfaces, and exploring blockchain technology.
+## 🛰️ Mission log
 
----
+- **Building:** full-stack e-commerce platforms and Web3 projects.
+- **Exploring:** System Design, DevOps, and Cloud Computing.
+- **Driven by:** beautiful interfaces and useful, real-world products.
+- **After hours:** late-night coding, a good cup of coffee, and one more idea to try.
 
-## 🚀 About Me
-
-- 🔭 Currently working on **full-stack e-commerce** and **Web3** projects.
-- 🌱 Learning **System Design**, **DevOps**, and **Cloud Computing**.
-- 💬 I enjoy building real-world products: E-commerce platforms, NFT Marketplaces, and modern web apps.
-- 📫 How to reach me: [Email](none)
-- ⚡ Fun fact: I love coding at night with a good cup of coffee ☕
-
----
-
-## 🛠️ Tech Stack
+## 🧬 Technology arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,nodejs,express,mongodb,postgres,solidity,ipfs" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/tech-stack-mobile.svg" />
+    <img src="./assets/tech-stack.svg" width="100%" alt="React, TypeScript, JavaScript, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL, Solidity, and IPFS" />
+  </picture>
 </p>
-
----
-
-## 🔥 Featured Projects
-
-### 1. [E-commerce](https://github.com/VamosHuiJia/project.teashop-frontend)
-- Premium tea e-commerce website with a minimalist and elegant design.
-- Admin Dashboard + Client side, smooth animations, fully responsive.
-- Tech: React 19, TypeScript, Tailwind CSS, Vite.
-
-### 2. [Blockchain NFT Marketplace](https://github.com/VamosHuiJia/project.blockchain-marketplace)
-- DApp for minting, buying, and selling digital art NFTs.
-- Fully decentralized on the blockchain.
-
-Check out all my repositories **[here](https://github.com/VamosHuiJia?tab=repositories)**.
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VamosHuiJia&theme=tokyonight&hide_border=true" />
+  <sub>From the interface to the API — and out into Web3.</sub>
 </p>
 
----
+## 🪐 Featured missions
 
-## 🎯 Future Goals
+<a href="https://github.com/VamosHuiJia/project.teashop-frontend">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-teashop-mobile.svg" />
+    <img src="./assets/project-teashop.svg" width="100%" alt="01 — Tea Shop. Premium tea e-commerce with an elegant storefront, admin dashboard, responsive layouts, and smooth animations. React 19, TypeScript, Tailwind CSS, Vite. Open repository." />
+  </picture>
+</a>
 
-- Build more **SaaS** products and **Web3** applications.
-- Contribute to open-source projects.
-- Gain professional experience as a Full-Stack Developer.
+<a href="https://github.com/VamosHuiJia/project.blockchain-marketplace">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-nft-mobile.svg" />
+    <img src="./assets/project-nft.svg" width="100%" alt="02 — NFT Marketplace. A blockchain DApp for minting, buying, and selling digital art NFTs. Blockchain, NFTs, Web3. Open repository." />
+  </picture>
+</a>
 
----
+<p align="center">
+  <a href="https://github.com/VamosHuiJia?tab=repositories"><strong>Explore all repositories ↗</strong></a>
+</p>
 
-Thank you for visiting my profile!  
-If you like my projects, feel free to **star** ⭐ them and **follow** me for more updates.
+## 🔭 Next horizons
 
----
+- Turn more ideas into **SaaS products** and **Web3 applications**.
+- Contribute to **open source** and learn alongside other developers.
+- Keep growing as a **Full-Stack Developer**, from architecture to deployment.
 
-*Last updated: June 2026*
+<details>
+  <summary><strong>📡 GitHub activity signals</strong></summary>
+  <p>Follow the activity behind the projects:</p>
+  <ul>
+    <li><a href="https://github.com/VamosHuiJia?tab=overview">Contribution graph on GitHub ↗</a></li>
+    <li><a href="https://streak-stats.demolab.com/?user=VamosHuiJia&amp;theme=tokyonight&amp;hide_border=true">Live contribution streak ↗</a></li>
+  </ul>
+</details>
+
+<br />
+
+<div align="center">
+  <a href="https://huyngg.vercel.app/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/cosmic-footer-mobile.svg" />
+      <img src="./assets/cosmic-footer.svg" width="100%" alt="Let's build something stellar. Explore my portfolio at huyngg.vercel.app. Thanks for visiting — star a project if it sparks an idea." />
+    </picture>
+  </a>
+</div>
